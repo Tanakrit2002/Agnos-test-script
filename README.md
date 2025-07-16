@@ -52,4 +52,4 @@ robot Agnos_test.robot
 
 ## Contact Information
 - **GitHub**: [Tanakrit2002](https://github.com/Tanakrit2002)
-- **Email**: [tanakrit.udomsiri2002@gmail.com]
+- **Email**: tanakrit.udomsiri2002@gmail.com

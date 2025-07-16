@@ -1,0 +1,7 @@
+# Core Testing Framework
+robotframework==6.1.1
+robotframework-seleniumlibrary==6.1.0
+
+# Web Automation
+selenium==4.15.2
+webdriver-manager==4.0.1
